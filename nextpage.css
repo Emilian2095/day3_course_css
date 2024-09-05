@@ -1,0 +1,39 @@
+*{
+    margin:5px;
+}
+body{
+    background-color: bisque;
+
+}
+h1{
+    text-align: center;
+    color: teal;
+    font-size: 50px;
+    border-bottom: 5px double black;
+
+}
+img{
+float: left;
+}
+p{
+    margin-right: 800px;
+    border-right: 5px dotted blue;
+    margin-top: 50px;
+    border-bottom: 5px double blue;
+}
+#img{
+    margin-right: 10px;
+    margin-top: 120px;
+    padding-left : 0px;
+    border: 1px solid black;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 800px;
+    height: 720px;
+    
+}
+button{
+ color: darkgreen;
+ background-color: lightblue;
+}
