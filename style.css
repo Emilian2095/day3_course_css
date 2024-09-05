@@ -1,0 +1,28 @@
+div{
+    border: 1px solid blueviolet;
+    margin: 5px;
+}
+
+h1{
+    color: blue;
+}
+
+#third>span{
+visibility: hidden;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: red;
+}
+
+ /* .right>p{
+     display: none;  
+  } */
+
+ #third>p{
+    background-color: rgb(188, 190, 20);
+ }

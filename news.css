@@ -1,0 +1,52 @@
+*{
+    
+    margin: 25px;
+    
+}
+body{
+background-image: url(https://comiviajeros.com/wp-content/uploads/2022/06/Viena-8.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+img{
+    height: 250px;
+    margin-top: 25px;
+    border-right: 2px dotted tomato;
+    border-top: 2px dotted tomato;
+    padding-right: 10px;
+    padding-top: 10px;
+
+}
+
+#author{
+    font-style: italic;
+    margin-top: -5px;
+    font-weight: bold;
+}
+
+.first-title>p{
+  padding: 5px; 
+  background-color: white;
+  font-size: large;
+  color: tomato;
+  font-style: oblique;
+
+
+ 
+    }
+
+.first-title{
+    border-right: 2px solid black;
+    margin-right: 45%; 
+    border-top: 2px dashed black;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-line: underline ;
+}
