@@ -50,3 +50,11 @@ h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration-line: underline ;
 }
+label>button{
+    background-color: lightblue;
+    font-weight: bold;
+    color: darkgreen;
+    position: relative;
+    left: 90%;
+    
+}
